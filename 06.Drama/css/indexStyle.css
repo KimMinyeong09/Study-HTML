@@ -1,0 +1,32 @@
+/* 머리말 */
+h1 {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    font-size: 72px;
+}
+a {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color:chocolate;
+}
+.broad-name {
+    text-align: center;
+}
+.logo {
+    display: block;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.channel {
+    background-color: lightgrey;
+    border-radius: 20px;
+    margin-bottom: 50px;
+    padding: 20px;
+    width: 500px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,98 @@
+@font-face {
+    font-family: "BM";
+    src: url(../fonts/BMJUA_otf.otf);
+}
+* {
+    box-sizing: border-box;
+    font-family: BM;
+  }
+
+body {
+    background-color: #F0E8D9;
+  }
+
+.form h1 {
+    font-size: 64px;
+    font-weight: normal;
+    color: #58595B;
+    margin-top: 75px;
+    margin-bottom: 0;
+    text-align: center;
+  }
+
+.form h2 {
+    font-size: 32px;
+    font-weight: normal;
+    color: #58595B;
+    margin-top: 30px;
+    margin-bottom: 75px;
+    text-align: center;
+  }
+
+.food_card {
+    background-color: white;
+    width: 300px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    overflow: hidden;
+  }
+
+#chicken_img {
+    width: 100%;
+    height: 200px;
+    background-image: url("../images/chicken.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+#sushi_img {
+    height: 200px;
+    background-image: url("../images/sushi.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#burger_img {
+    height: 200px;
+    background-image: url("../images/burger.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#bibimbap_img {
+    height: 200px;
+    background-image: url("../images/bibimbap.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.menual {
+    padding: 20px;
+    text-align: center;
+}
+
+.food_title {
+    font-size: 32px;
+    font-weight: normal;
+    color: #58595B;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.food_cont {
+    font-size: 16px;
+    color: #58595B;
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+
+.payment {
+    font-size: 16px;
+    color: #0000EE;
+    text-decoration: none;
+    margin-top: 0;
+    margin-bottom: 0;
+}

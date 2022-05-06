@@ -1,0 +1,22 @@
+body {
+    margin: 50px 0;
+  }
+  
+  h1 {
+    font-family: 'Noto Sans KR', sans-serif;
+    margin: 0;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+.img-link {
+    text-align: center;
+}
+
+.img-link a:not(:last-child) {
+    margin-right: 20px;
+}
+
+.img-link a {
+    text-decoration: none; /* 컨테이너 안의 이미지 사이에 공백 생겨서 밑줄이 생김-> 이것 제거 */
+}
