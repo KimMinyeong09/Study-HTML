@@ -1,0 +1,1 @@
+![grid_blueprint](https://user-images.githubusercontent.com/70676475/186119323-0c445eb0-27cd-48ea-a166-2f4930955e94.jpg)
