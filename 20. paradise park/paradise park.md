@@ -1,0 +1,1 @@
+![paradise_park_blueprint](https://user-images.githubusercontent.com/70676475/186142534-ea95e7ce-1eb9-4e1e-b0d8-baed53f2e410.jpg)
