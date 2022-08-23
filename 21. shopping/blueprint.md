@@ -1,0 +1,1 @@
+![simpleshop_blueprint](https://user-images.githubusercontent.com/70676475/186155762-e153b745-41ae-4bd1-b448-68334412dd00.jpg)
